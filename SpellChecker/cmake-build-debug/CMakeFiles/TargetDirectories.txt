@@ -1,0 +1,3 @@
+C:/Users/FURKAN/CLionProjects/SpellChecker/cmake-build-debug/CMakeFiles/SpellChecker.dir
+C:/Users/FURKAN/CLionProjects/SpellChecker/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/FURKAN/CLionProjects/SpellChecker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
